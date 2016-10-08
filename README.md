@@ -2,16 +2,11 @@
 This contain data-sets ,pig scripts, mapreduce programs (hiveql comands yet to come) that i am creating as I grow to learn hadoop ecosystem
 
 
-+------------+---------------------------------------------------------------+
-|DIRECTORIES | CONTENTS                                                      |
-+------------+---------------------------------------------------------------+
-|/pig scripts|contains .pig files                                            |
-+------------+---------------------------------------------------------------+
-|/dist       |contains .jar files                                            |
-+------------+---------------------------------------------------------------+
-|/MapReduce  |is a project containing various mapreduce programs and is      |
-|            |compiled in the jar file which can be found in /dist folder    |
-+------------+---------------------------------------------------------------+            
+<table>
+<tr><th>DIRECTORIES</th><th>Description</th></tr>
+<tr><td>/pig</td><td> scriptscontains .pig files  </td></tr>                                           
+<tr><td>/dist</td><td>contains .jar files </td></tr>                                           
+<tr><td>/MapReduce</td><td> is a project containing various mapreduce programs and is compiled in the jar file which can be found in /dist folder</td></tr>    
+</table>
 
-
-Note: In future directory structure may change so keep viewing read me as it will we getting updated every time something is commited
+<b>Note: In future directory structure may change so keep viewing read me as it will we getting updated every time something is commited </b>
